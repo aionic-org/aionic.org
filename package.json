@@ -1,0 +1,22 @@
+{
+  "name": "aionic-apps.com",
+  "version": "0.0.1",
+  "description": "aionic-apps.com - Software products for project management",
+  "author": "Lars Wächter <lars97.waechter@gmail.com>",
+  "private": true,
+  "license": "MIT",
+  "homepage": "https://aionic-apps.com",
+  "scripts": {
+    "watch": "browser-sync start --server --files ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aionic-Apps/aionic-apps.com.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Aionic-Apps/aionic-apps.com/issues"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.7"
+  }
+}
