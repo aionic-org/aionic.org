@@ -84,3 +84,6 @@ dist
 
 # TypeORM Config
 ormconfig.json
+
+# zip
+.zip

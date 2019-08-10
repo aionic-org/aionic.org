@@ -1,25 +1,7 @@
-body {
-	background-color: #6c5ce7;
-	color: white;
-	font-family: "Source Sans Pro", sans-serif;
+.nav-title {
+	text-decoration: none !important;
 }
 
-.container {
-	margin-top: 120px;
-}
-
-.container img {
-	width: 120px;
-}
-
-.container a {
-	background-color: #00b894;
-	border-color: #00a585;
-}
-
-.container a:hover,
-.container a:focus,
-.container a:active {
-	background-color: #00a585 !important;
-	border-color: #009376 !important;
+.products-header {
+	max-width: 700px;
 }
