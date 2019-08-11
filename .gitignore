@@ -86,4 +86,4 @@ dist
 ormconfig.json
 
 # zip
-.zip
+*.zip

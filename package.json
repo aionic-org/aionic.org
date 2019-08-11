@@ -1,7 +1,7 @@
 {
   "name": "aionic-apps.com",
   "version": "0.0.1",
-  "description": "aionic-apps.com - Software products for project management",
+  "description": "aionic-apps.com - Applications for project management and collaboration",
   "author": "Lars Wächter <lars97.waechter@gmail.com>",
   "private": true,
   "license": "MIT",
