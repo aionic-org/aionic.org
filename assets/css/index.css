@@ -1,7 +1,27 @@
-.nav-title {
-	text-decoration: none !important;
+body,
+html {
+	height: 100%;
+	color: white;
+	font-family: "Source Sans Pro", sans-serif;
 }
 
-.products-header {
-	max-width: 700px;
+.wrapper-img {
+	height: 100%;
+	background-image: url(/assets/img/background.jpg);
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.wrapper-shade {
+	height: 100%;
+	background-color: rgba(30, 30, 30, 0.9);
+}
+
+.container .content {
+	padding-top: 300px;
+}
+
+.container .content p {
+	color: #c4c7cb;
 }
