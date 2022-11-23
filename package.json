@@ -17,6 +17,6 @@
     "url": "https://github.com/Aionic-Apps/aionic-apps.com/issues"
   },
   "devDependencies": {
-    "browser-sync": "^2.26.7"
+    "browser-sync": "^2.27.10"
   }
 }
